@@ -1,4 +1,4 @@
-# Pymaceuticals Inc. Clinical Study Analysis
+# Pymaceuticals Inc. Clinical Study Analysis - Data Visualization
 
 ## Overview
 
